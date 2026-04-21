@@ -1,6 +1,6 @@
 # CRUD Minuman Favorit - Laravel
 
-## Deskripsi Proyek
+## Deskripsi
 Project ini merupakan web sederhana berbasis Laravel 12 yang digunakan untuk mengelola data minuman favorit melalui rating 1-10. Web ini menerapkan konsep CRUD (Create, Read, Update, Delete) dengan database MySQL.
 
 ## Fitur
